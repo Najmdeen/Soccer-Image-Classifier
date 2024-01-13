@@ -1,0 +1,8 @@
+PyWavelets
+opencv-python
+streamlit
+matplotlib
+pandas
+numpy
+tensorflow
+joblib
