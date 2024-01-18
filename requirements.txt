@@ -1,8 +1,11 @@
-PyWavelets
 opencv-python
-streamlit
-matplotlib
-pandas
-numpy
-tensorflow
 joblib
+matplotlib
+numpy
+pandas
+pywt
+seaborn
+scikit-learn
+streamlit
+tensorflow
+xgboost
